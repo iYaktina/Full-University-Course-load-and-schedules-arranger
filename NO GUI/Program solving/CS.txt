@@ -1,0 +1,61 @@
+9
+Introduction to Computer Science & Programming
+SWE 110
+4
+--
+CS
+CS
+Computer Science & Program Solving
+SWE 111
+4
+SWE 110
+CS
+CS
+Data Structures & Algorithms
+SWE 210
+4
+SWE 111
+CS
+CS
+Object Oriented Programming
+SWE 211
+3
+SWE 111
+CS
+CS
+Software Engineering
+SWE 320
+4
+SWE 211
+CS
+CS
+Senior Project in Computer Science 
+CSC 491A
+0
+SWE 320
+CS
+CS
+Management Information Systems
+INF 311
+5
+INF 230
+IS
+IS
+IT Security
+INF 420
+3
+CSC 230
+IS
+IS
+Human Computer Interaction
+SWE 330
+3
+SWE 211
+SE
+SE
+Software Validation and Testing
+SWE 413
+5
+SWE 320
+SE
+SE

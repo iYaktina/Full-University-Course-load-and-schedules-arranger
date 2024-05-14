@@ -1,0 +1,14 @@
+Student's Name: Abdelrahman Mohamed 
+Student's ID: 2022/03807
+Student's GPA: 1.9
+Selected Course: Code SWE 110
+Name: Introduction to Computer Science & Programming
+Course Lec Day & Period: Sunday From 9 To 10.5
+Course Lab Day & Period: Sunday From 11 To 13
+Student's Name: Abdelrahman Mohamed 
+Student's ID: 2022/03807
+Student's GPA: 1.9
+Selected Course: Code SWE 110
+Name: Introduction to Computer Science & Programming
+Course Lec Day & Period: Sunday From 9 To 10.5
+Course Lab Day & Period: Sunday From 11 To 13

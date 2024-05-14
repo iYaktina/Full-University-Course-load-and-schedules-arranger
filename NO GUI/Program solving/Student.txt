@@ -1,0 +1,24 @@
+2022/03807
+Abdelrahman Mohamed 
+1.9
+13
+2022/07805
+Gannah Mahmoud
+3.5
+17
+2021/03007
+Mostafa Walid
+2.7
+30
+2021/00807
+Mariam Hatem
+3.7
+34
+2020/05432
+Hania Maher
+3.9
+69
+2020/05235
+Abdelrahman Salah
+3.4
+65

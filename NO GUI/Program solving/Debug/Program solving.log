@@ -1,0 +1,4 @@
+﻿  Program solving.cpp
+C:\Users\Pumpkin\source\repos\Program solving\Program solving\Program solving.cpp(203,63): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Pumpkin\source\repos\Program solving\Program solving\Program solving.cpp(100): warning C4715: 'isdigit2': not all control paths return a value
+  Program solving.vcxproj -> C:\Users\Pumpkin\source\repos\Program solving\Debug\Program solving.exe

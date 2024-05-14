@@ -1,0 +1,24 @@
+First Semester:
+Lab/Tutorial    Lecture    Credit Hours    Course Name                                          Pre-requisite    Course Code    No.
+2               3          4               Physics                                              --               BAS121         1
+2               3          3               Mathematics                                          --               BAS111         2
+2               3          4               Introduction to computer science and programming     --               SWE110         3
+0               3          3               University Req. (1)                                  --               --             4
+0               3          3               University Req. (2)                                  --               --             5
+
+
+
+
+
+
+
+Second Semester:
+
+No.	Course Code	Pre-requisite	Course Name	                           Credit Hours	     Lecture    Lab/Tutorial
+1	BAS 131	        --              Probability & Statistics                   3                 3          2
+2	BAS 112	        BAS111          Discrete Mathematics & linear algebra      3                 3          2
+3	CSC 120	        BAS121          Digital Logic Design                       3                 2          2
+4	SWE 111	        SWE110          Computer Programming & Problem Solving     4                 3          2
+5	--              --              University Req (3)	                   3	             3          0
+ 
+
